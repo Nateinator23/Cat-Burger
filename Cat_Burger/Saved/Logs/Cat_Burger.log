@@ -997,3 +997,36 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.04-23.36.57:674][998]AssetCheck: New page: Asset Save: Main_Level
 [2022.10.04-23.36.57:674][998]LogContentValidation: Display: Validating World /Game/Game/Maps/Main_Level.Main_Level
 [2022.10.04-23.36.58:854][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.10.04-23.43.37:873][263]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2022.10.04-23.43.37:873][263]LogAssetEditorSubsystem: Opening Asset editor for TextureCube /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight
+[2022.10.04-23.43.37:902][263]LogTexture: Display: Waiting for textures to be ready 0/1 (/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight) ...
+[2022.10.04-23.43.37:922][263]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.10.04-23.43.38:017][263]LogViewport: Scene viewport resized to 919x534, mode Windowed.
+[2022.10.04-23.43.42:735][759]LogSlate: Window 'HDRI_Epic_Courtyard_Daylight' being destroyed
+[2022.10.04-23.43.42:748][759]LogSlate: Window 'HDRI_Epic_Courtyard_Daylight' being destroyed
+[2022.10.04-23.48.06:752][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.10.04-23.48.06:761][110]LogSavePackage: Moving output files for package: /Game/Game/Maps/Main_Level
+[2022.10.04-23.48.06:764][110]LogSavePackage: Moving '../../../../../../Users/nharvey/Documents/GitHub/Cat-Burger/Cat_Burger/Saved/Main_LevelADF1A02048CD7ACA909B09A9702AD422.tmp' to '../../../../../../Users/nharvey/Documents/GitHub/Cat-Burger/Cat_Burger/Content/Game/Maps/Main_Level.umap'
+[2022.10.04-23.48.06:779][110]LogFileHelpers: No new changes to save!
+[2022.10.04-23.48.06:789][110]AssetCheck: New page: Asset Save: Main_Level
+[2022.10.04-23.48.06:790][110]LogContentValidation: Display: Validating World /Game/Game/Maps/Main_Level.Main_Level
+[2022.10.04-23.48.08:093][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.10.04-23.48.18:855][513]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.04-23.48.18:881][513]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.04-23.48.18:886][514]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.04-23.48.23:961][114]LogContentBrowser: Attempting asset rename: NewFolder -> BluePrints
+[2022.10.04-23.48.23:961][114]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.04-23.49.01:927][620]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.04-23.49.03:440][620]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.04-23.49.03:450][620]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.04-23.49.03:453][620]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.04-23.49.03:469][622]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.10.04-23.49.07:994][163]LogContentBrowser: Attempting asset rename: NewBlueprint -> Character
+[2022.10.04-23.49.07:998][163]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.04-23.49.11:887][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.10.04-23.49.13:351][625]LogSlate: Window 'Save Content' being destroyed
+[2022.10.04-23.49.13:397][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/BluePrints/Character" FILE="../../../../../../Users/nharvey/Documents/GitHub/Cat-Burger/Cat_Burger/Content/Game/BluePrints/Character.uasset" SILENT=true
+[2022.10.04-23.49.13:402][625]LogSavePackage: Moving output files for package: /Game/Game/BluePrints/Character
+[2022.10.04-23.49.13:402][625]LogSavePackage: Moving '../../../../../../Users/nharvey/Documents/GitHub/Cat-Burger/Cat_Burger/Saved/Character21ACAD6649D1B0FCB8092AB8B02F1991.tmp' to '../../../../../../Users/nharvey/Documents/GitHub/Cat-Burger/Cat_Burger/Content/Game/BluePrints/Character.uasset'
+[2022.10.04-23.49.13:414][625]AssetCheck: New page: Asset Save: Character
+[2022.10.04-23.49.13:414][625]LogContentValidation: Display: Validating Blueprint /Game/Game/BluePrints/Character.Character
