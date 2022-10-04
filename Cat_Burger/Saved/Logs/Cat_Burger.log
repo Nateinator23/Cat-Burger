@@ -1030,3 +1030,600 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.04-23.49.13:402][625]LogSavePackage: Moving '../../../../../../Users/nharvey/Documents/GitHub/Cat-Burger/Cat_Burger/Saved/Character21ACAD6649D1B0FCB8092AB8B02F1991.tmp' to '../../../../../../Users/nharvey/Documents/GitHub/Cat-Burger/Cat_Burger/Content/Game/BluePrints/Character.uasset'
 [2022.10.04-23.49.13:414][625]AssetCheck: New page: Asset Save: Character
 [2022.10.04-23.49.13:414][625]LogContentValidation: Display: Validating Blueprint /Game/Game/BluePrints/Character.Character
+[2022.10.04-23.58.56:446][ 97]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.10.04-23.58.56:454][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Window_400x400.Wall_Window_400x400 should be resaved to improve async compilation performance.
+[2022.10.04-23.58.56:455][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300 should be resaved to improve async compilation performance.
+[2022.10.04-23.58.56:456][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400 should be resaved to improve async compilation performance.
+[2022.10.04-23.58.56:457][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 should be resaved to improve async compilation performance.
+[2022.10.04-23.58.56:458][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_500x500.Wall_500x500 should be resaved to improve async compilation performance.
+[2022.10.04-23.58.56:459][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400 should be resaved to improve async compilation performance.
+[2022.10.04-23.58.56:459][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300 should be resaved to improve async compilation performance.
+[2022.10.04-23.58.56:460][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 should be resaved to improve async compilation performance.
+[2022.10.04-23.58.56:468][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform should be resaved to improve async compilation performance.
+[2022.10.04-23.58.56:470][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500 should be resaved to improve async compilation performance.
+[2022.10.04-23.58.56:536][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Blueprints/Assets/SM_Arrows.SM_Arrows should be resaved to improve async compilation performance.
+[2022.10.04-23.58.56:552][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Lamp_Wall.SM_Lamp_Wall should be resaved to improve async compilation performance.
+[2022.10.04-23.58.56:630][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:058][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Props/MaterialSphere.MaterialSphere should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:064][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:065][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:074][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_GlassWindow.SM_GlassWindow should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:075][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_PillarFrame.SM_PillarFrame should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:075][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_PillarFrame300.SM_PillarFrame300 should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:075][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_WindowFrame.SM_WindowFrame should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:075][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:075][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_QuadPyramid.Shape_QuadPyramid should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:075][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:162][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Stairs.SM_Stairs should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:172][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Shelf.SM_Shelf should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:181][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Rock.SM_Rock should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:193][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_MatPreviewMesh_02.SM_MatPreviewMesh_02 should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:204][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:205][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Couch.SM_Couch should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:219][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Bush.SM_Bush should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:221][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_WideCapsule.Shape_WideCapsule should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:221][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Wedge_B.Shape_Wedge_B should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:222][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Wedge_A.Shape_Wedge_A should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:223][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Tube.Shape_Tube should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:224][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_TriPyramid.Shape_TriPyramid should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:225][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Trim_90_Out.Shape_Trim_90_Out should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:226][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Trim_90_In.Shape_Trim_90_In should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:226][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Trim.Shape_Trim should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:228][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Torus.Shape_Torus should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:229][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:230][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Pipe_90.Shape_Pipe_90 should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:232][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Pipe_180.Shape_Pipe_180 should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:232][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:233][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_NarrowCapsule.Shape_NarrowCapsule should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:234][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cylinder.Shape_Cylinder should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:235][ 97]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone should be resaved to improve async compilation performance.
+[2022.10.04-23.58.57:236][ 97]LogObjectTools: Deleting 3 worlds: /Game/StarterContent/Maps/StarterMap.StarterMap, /Game/StarterContent/Maps/Minimal_Default.Minimal_Default, /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting
+[2022.10.04-23.58.57:236][ 97]LogObjectTools: Currently 2 active worlds: /Game/Game/Maps/Main_Level.Main_Level, /Engine/Transient.World_0
+[2022.10.04-23.58.57:244][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.10.04-23.59.05:398][ 97]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.04-23.59.05:438][ 97]LogUObjectGlobals: Force Deleting 270 Package(s):
+	Asset Name: /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation
+	Asset Type: Texture2D
+	Asset Name: /Game/StarterContent/Materials/M_Metal_Brushed_Nickel.M_Metal_Brushed_Nickel
+	Asset Type: Material
+	Asset Name: /Game/StarterContent/Textures/T_Metal_Aluminum_D.T_Metal_Aluminum_D
+	Asset Type: Texture2D
+	Asset Name: /Game/StarterContent/Textures/T_Metal_Gold_N.T_Metal_Gold_N
+	Asset Type: Texture2D
+	Asset Name: /Game/StarterContent/Materials/M_Metal_Burnished_Steel.M_Metal_Burnished_Steel
+	Asset Type: Material
+	Asset Name: /Game/StarterContent/Textures/T_Metal_Copper_D.T_Metal_Copper_D
+	Asset Type: Texture2D
+	Asset Name: /Game/StarterContent/Materials/M_Metal_Copper.M_Metal_Copper
+	Asset Type: Material
+	Asset Name: /Game/StarterContent/Textures/T_Chair_M.T_Chair_M
+	Asset Type: Texture2D
+	Asset Name: /Game/StarterContent/Textures/T_Chair_N.T_Chair_N
+	Asset Type: Texture2D
+	Asset Name: /Game/StarterContent/Props/Materials/M_Chair.M_Chair
+	Asset Type: Material
+[2022.10.04-23.59.06:597][ 97]LogMaterial: Display: Missing cached shadermap for M_Metal_Brushed_Nickel in PCD3D_SM5, Default, SM5 (DDC key hash: A36C989B6F1E4216F82730FC9611B4DFFE73DBF6), compiling. 
+[2022.10.04-23.59.06:598][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Metal_Brushed_Nickel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.06:645][ 97]LogMaterial: Display: Missing cached shadermap for M_Metal_Burnished_Steel in PCD3D_SM5, Default, SM5 (DDC key hash: 6C8D5FB25149E7A9F1F332651B7C35AA81802C68), compiling. 
+[2022.10.04-23.59.06:646][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Metal_Burnished_Steel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.06:687][ 97]LogMaterial: Display: Missing cached shadermap for M_Metal_Copper in PCD3D_SM5, Default, SM5 (DDC key hash: 37F823502B202F6043FCEC9220653BA9942129F1), compiling. 
+[2022.10.04-23.59.06:687][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Metal_Copper.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.06:692][ 97]LogMaterial: Display: Missing cached shadermap for M_Metal_Copper in PCD3D_SM5, Default, SM5 (DDC key hash: 37F823502B202F6043FCEC9220653BA9942129F1), compiling. 
+[2022.10.04-23.59.06:692][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Metal_Copper.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.06:719][ 97]LogMaterial: Display: Missing cached shadermap for M_Chair in PCD3D_SM5, Default, SM5 (DDC key hash: 8205818C6213F9F872C4494EC9CA8B4C21E6B126), compiling. 
+[2022.10.04-23.59.06:720][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Props\Materials\M_Chair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.06:749][ 97]LogMaterial: Display: Missing cached shadermap for M_StatueGlass in PCD3D_SM5, Default, SM5 (DDC key hash: 450879D0928FE2DD15841CA2004E113E080C120A), compiling. 
+[2022.10.04-23.59.06:750][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Props\Materials\M_StatueGlass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.06:802][ 97]LogMaterial: Display: Missing cached shadermap for M_Statue in PCD3D_SM5, Default, SM5 (DDC key hash: A6103A1F6D51A617F9B50FAF23EAB2EDB22CFF9E), compiling. 
+[2022.10.04-23.59.06:803][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Props\Materials\M_Statue.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.06:810][ 97]LogMaterial: Display: Missing cached shadermap for M_Statue in PCD3D_SM5, Default, SM5 (DDC key hash: A6103A1F6D51A617F9B50FAF23EAB2EDB22CFF9E), compiling. 
+[2022.10.04-23.59.06:811][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Props\Materials\M_Statue.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.06:838][ 97]LogMaterial: Display: Missing cached shadermap for M_TableRound in PCD3D_SM5, Default, SM5 (DDC key hash: C16BBBCB0ADCC7069642CD88EAB64C3920102683), compiling. 
+[2022.10.04-23.59.06:839][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Props\Materials\M_TableRound.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.06:863][ 97]LogStaticMesh: Display: Building static mesh SM_Chair...
+[2022.10.04-23.59.06:863][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Chair) ...
+[2022.10.04-23.59.06:872][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Props/SM_Chair.SM_Chair
+[2022.10.04-23.59.06:899][ 97]LogStaticMesh: Display: Building static mesh SM_Statue...
+[2022.10.04-23.59.06:899][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Statue) ...
+[2022.10.04-23.59.06:942][ 97]LogStaticMesh: Built static mesh [0.05s] /Game/StarterContent/Props/SM_Statue.SM_Statue
+[2022.10.04-23.59.06:990][ 97]LogStaticMesh: Display: Building static mesh SM_TableRound...
+[2022.10.04-23.59.06:990][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_TableRound) ...
+[2022.10.04-23.59.07:034][ 97]LogStaticMesh: Built static mesh [0.05s] /Game/StarterContent/Props/SM_TableRound.SM_TableRound
+[2022.10.04-23.59.07:084][ 97]LogStaticMesh: Display: Building static mesh Wall_Door_400x400...
+[2022.10.04-23.59.07:084][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Architecture/Wall_Door_400x400) ...
+[2022.10.04-23.59.07:093][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400
+[2022.10.04-23.59.07:110][ 97]LogStaticMesh: Display: Building static mesh Wall_Window_400x300...
+[2022.10.04-23.59.07:110][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Architecture/Wall_Window_400x300) ...
+[2022.10.04-23.59.07:125][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300
+[2022.10.04-23.59.07:142][ 97]LogStaticMesh: Display: Building static mesh Wall_Window_400x400...
+[2022.10.04-23.59.07:142][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Architecture/Wall_Window_400x400) ...
+[2022.10.04-23.59.07:155][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Architecture/Wall_Window_400x400.Wall_Window_400x400
+[2022.10.04-23.59.07:173][ 97]LogStaticMesh: Display: Building static mesh Wall_Door_400x300...
+[2022.10.04-23.59.07:173][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Architecture/Wall_Door_400x300) ...
+[2022.10.04-23.59.07:175][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2022.10.04-23.59.07:201][ 97]LogStaticMesh: Display: Building static mesh Wall_500x500...
+[2022.10.04-23.59.07:201][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Architecture/Wall_500x500) ...
+[2022.10.04-23.59.07:204][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Architecture/Wall_500x500.Wall_500x500
+[2022.10.04-23.59.07:230][ 97]LogStaticMesh: Display: Building static mesh Wall_400x400...
+[2022.10.04-23.59.07:230][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Architecture/Wall_400x400) ...
+[2022.10.04-23.59.07:233][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400
+[2022.10.04-23.59.07:258][ 97]LogStaticMesh: Display: Building static mesh Wall_400x300...
+[2022.10.04-23.59.07:258][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Architecture/Wall_400x300) ...
+[2022.10.04-23.59.07:263][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2022.10.04-23.59.07:288][ 97]LogStaticMesh: Display: Building static mesh Wall_400x200...
+[2022.10.04-23.59.07:288][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Architecture/Wall_400x200) ...
+[2022.10.04-23.59.07:292][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2022.10.04-23.59.07:327][ 97]LogStaticMesh: Display: Building static mesh SM_AssetPlatform...
+[2022.10.04-23.59.07:327][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Architecture/SM_AssetPlatform) ...
+[2022.10.04-23.59.07:359][ 97]LogStaticMesh: Built static mesh [0.04s] /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2022.10.04-23.59.07:392][ 97]LogStaticMesh: Display: Building static mesh Pillar_50x500...
+[2022.10.04-23.59.07:392][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Architecture/Pillar_50x500) ...
+[2022.10.04-23.59.07:396][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500
+[2022.10.04-23.59.07:522][ 97]LogMaterial: Display: Missing cached shadermap for M_Lamp in PCD3D_SM5, Default, SM5 (DDC key hash: BAD06D4F4F17A2C1A95FFC6D15B152F6ABA9E384), compiling. 
+[2022.10.04-23.59.07:523][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Props\Materials\M_Lamp.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.08:009][ 97]LogMeshUtilities: Finished distance field build in 1.8s - 126x119x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 43% occupied, 1726 triangles, SM_Arrows
+[2022.10.04-23.59.08:027][ 97]LogStaticMesh: Display: Building static mesh SM_Lamp_Wall...
+[2022.10.04-23.59.08:027][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Lamp_Wall) ...
+[2022.10.04-23.59.08:036][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Props/SM_Lamp_Wall.SM_Lamp_Wall
+[2022.10.04-23.59.08:066][ 97]LogMaterial: Display: Missing cached shadermap for M_smoke_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: 672C026FF7DF1DFE1D37EF198F758D9A922DF9F1), compiling. 
+[2022.10.04-23.59.08:067][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2022.10.04-23.59.08:088][ 97]LogMaterial: Warning: None: Requesting an invalid TextureIndex! (2 / 2)
+[2022.10.04-23.59.08:110][ 97]LogMaterial: Display: Missing cached shadermap for M_Spark in PCD3D_SM5, Default, SM5 (DDC key hash: EBA2D5EE7BACABDEC3CA3A736CF61EF71BEEF5B4), compiling. 
+[2022.10.04-23.59.08:111][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Particles\Materials\M_Spark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.08:157][ 97]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2022.10.04-23.59.08:217][ 97]LogMaterial: Display: Missing cached shadermap for M_Fire_SubUV in PCD3D_SM5, Default, SM5 (DDC key hash: 6D6CABC09A5A3D4B1737C035DF61ACE058795E5E), compiling. 
+[2022.10.04-23.59.08:218][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Particles\Materials\M_Fire_SubUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2022.10.04-23.59.08:238][ 97]LogMaterial: Display: Missing cached shadermap for M_Heat_Distortion in PCD3D_SM5, Default, SM5 (DDC key hash: E79EAB06DBBFA89815D8BE6B41E8A9378EDF84EE), compiling. 
+[2022.10.04-23.59.08:239][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Particles\Materials\M_Heat_Distortion.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.08:400][ 97]LogMeshUtilities: Finished distance field build in 2.2s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 1322 triangles, Skybox
+[2022.10.04-23.59.08:404][ 97]LogMaterial: Display: Missing cached shadermap for M_Burst in PCD3D_SM5, Default, SM5 (DDC key hash: DC90912E1045C7DAD9DEE46D0C30228F31C7568E), compiling. 
+[2022.10.04-23.59.08:405][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Particles\Materials\M_Burst.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.08:416][ 97]LogMaterial: Display: Missing cached shadermap for M_explosion_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: 583796DEDF83659BBC8764CF6F5E604553AA9FD8), compiling. 
+[2022.10.04-23.59.08:417][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Particles\Materials\M_explosion_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2022.10.04-23.59.08:588][ 97]LogStaticMesh: Display: Building static mesh SM_Lamp_Ceiling...
+[2022.10.04-23.59.08:588][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Lamp_Ceiling) ...
+[2022.10.04-23.59.08:610][ 97]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling
+[2022.10.04-23.59.08:700][ 97]LogMaterial: Display: Missing cached shadermap for M_Brick_Clay_Beveled in PCD3D_SM5, Default, SM5 (DDC key hash: 4DA249B6A299032905AE0F1C74517E037A7ABB11), compiling. 
+[2022.10.04-23.59.08:700][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Brick_Clay_Beveled.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.08:749][ 97]LogMaterial: Display: Missing cached shadermap for M_Brick_Clay_New in PCD3D_SM5, Default, SM5 (DDC key hash: 935BBFE4FDBE81B26252D5548AD4AF7B6C9907BA), compiling. 
+[2022.10.04-23.59.08:749][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Brick_Clay_New.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.08:823][ 97]LogMaterial: Display: Missing cached shadermap for M_Brick_Clay_Old in PCD3D_SM5, Default, SM5 (DDC key hash: 565AFA6A53955D89F19C6EC967519CD9BC6B6861), compiling. 
+[2022.10.04-23.59.08:824][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Brick_Clay_Old.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.08:899][ 97]LogMaterial: Display: Missing cached shadermap for M_Brick_Cut_Stone in PCD3D_SM5, Default, SM5 (DDC key hash: CAB7F380E437963A4744B23B11CEC25332A4B6E6), compiling. 
+[2022.10.04-23.59.08:900][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Brick_Cut_Stone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.08:908][ 97]LogMaterial: Display: Missing cached shadermap for M_Brick_Cut_Stone in PCD3D_SM5, Default, SM5 (DDC key hash: CAB7F380E437963A4744B23B11CEC25332A4B6E6), compiling. 
+[2022.10.04-23.59.08:909][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Brick_Cut_Stone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.08:969][ 97]LogMaterial: Display: Missing cached shadermap for M_Brick_Hewn_Stone in PCD3D_SM5, Default, SM5 (DDC key hash: 0BD258D26F7D3ADEDBE5651B824A1FB50E3CBF91), compiling. 
+[2022.10.04-23.59.08:969][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Brick_Hewn_Stone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.08:977][ 97]LogMaterial: Display: Missing cached shadermap for M_Brick_Hewn_Stone in PCD3D_SM5, Default, SM5 (DDC key hash: 0BD258D26F7D3ADEDBE5651B824A1FB50E3CBF91), compiling. 
+[2022.10.04-23.59.08:977][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Brick_Hewn_Stone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.09:030][ 97]LogMaterial: Display: Missing cached shadermap for M_Ceramic_Tile_Checker in PCD3D_SM5, Default, SM5 (DDC key hash: 90EBB0166DA8B83529DD60FDA98006F8D77DDDC3), compiling. 
+[2022.10.04-23.59.09:031][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Ceramic_Tile_Checker.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.09:077][ 97]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Pebble in PCD3D_SM5, Default, SM5 (DDC key hash: C2D5EE0A25347AC9D6C9CF1634187137FACC70B5), compiling. 
+[2022.10.04-23.59.09:078][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.09:380][ 97]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Rough in PCD3D_SM5, Default, SM5 (DDC key hash: 28571D78D76116C4D05C041B62C99E2CDE611D77), compiling. 
+[2022.10.04-23.59.09:382][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_CobbleStone_Rough.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.09:741][ 97]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Smooth in PCD3D_SM5, Default, SM5 (DDC key hash: 42A7B8A8C782E7E826CD5B81DAB316B2D26892BD), compiling. 
+[2022.10.04-23.59.09:743][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_CobbleStone_Smooth.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.09:747][ 97]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Smooth in PCD3D_SM5, Default, SM5 (DDC key hash: 42A7B8A8C782E7E826CD5B81DAB316B2D26892BD), compiling. 
+[2022.10.04-23.59.09:750][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_CobbleStone_Smooth.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.09:757][ 97]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Smooth in PCD3D_SM5, Default, SM5 (DDC key hash: 42A7B8A8C782E7E826CD5B81DAB316B2D26892BD), compiling. 
+[2022.10.04-23.59.09:759][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_CobbleStone_Smooth.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.09:840][ 97]LogMaterial: Display: Missing cached shadermap for M_Concrete_Grime in PCD3D_SM5, Default, SM5 (DDC key hash: 0AD96FC04D033EE830379F5F30A6E129CE2C5AA8), compiling. 
+[2022.10.04-23.59.09:841][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Concrete_Grime.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.09:845][ 97]LogMaterial: Display: Missing cached shadermap for M_Concrete_Grime in PCD3D_SM5, Default, SM5 (DDC key hash: 0AD96FC04D033EE830379F5F30A6E129CE2C5AA8), compiling. 
+[2022.10.04-23.59.09:846][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Concrete_Grime.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.09:923][ 97]LogMaterial: Display: Missing cached shadermap for M_Concrete_Panels in PCD3D_SM5, Default, SM5 (DDC key hash: B91D772F722BFCDBC08833D6AD1416B292B902AE), compiling. 
+[2022.10.04-23.59.09:924][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Concrete_Panels.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.09:931][ 97]LogMaterial: Display: Missing cached shadermap for M_Concrete_Panels in PCD3D_SM5, Default, SM5 (DDC key hash: B91D772F722BFCDBC08833D6AD1416B292B902AE), compiling. 
+[2022.10.04-23.59.09:931][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Concrete_Panels.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.09:992][ 97]LogMaterial: Display: Missing cached shadermap for M_Concrete_Poured in PCD3D_SM5, Default, SM5 (DDC key hash: 30D5839BE461A7BBE4FAECE7CA5E9E2FD728E8BD), compiling. 
+[2022.10.04-23.59.09:993][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Concrete_Poured.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.09:997][ 97]LogMaterial: Display: Missing cached shadermap for M_Concrete_Poured in PCD3D_SM5, Default, SM5 (DDC key hash: 30D5839BE461A7BBE4FAECE7CA5E9E2FD728E8BD), compiling. 
+[2022.10.04-23.59.09:998][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Concrete_Poured.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:052][ 97]LogMaterial: Display: Missing cached shadermap for M_Concrete_Tiles in PCD3D_SM5, Default, SM5 (DDC key hash: 660E569A284C8CC368F1F987D9B08A21A728DF1D), compiling. 
+[2022.10.04-23.59.10:053][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Concrete_Tiles.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:109][ 97]LogMaterial: Display: Missing cached shadermap for M_Ground_Grass in PCD3D_SM5, Default, SM5 (DDC key hash: 25FA58958BFE188F53FAC0ABFC2291B0CD0DB0B8), compiling. 
+[2022.10.04-23.59.10:110][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Ground_Grass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:114][ 97]LogMaterial: Display: Missing cached shadermap for M_Ground_Grass in PCD3D_SM5, Default, SM5 (DDC key hash: 25FA58958BFE188F53FAC0ABFC2291B0CD0DB0B8), compiling. 
+[2022.10.04-23.59.10:115][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Ground_Grass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:167][ 97]LogMaterial: Display: Missing cached shadermap for M_Ground_Gravel in PCD3D_SM5, Default, SM5 (DDC key hash: 173AB913CE163E03A628ADF1C431FC70639184B0), compiling. 
+[2022.10.04-23.59.10:167][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Ground_Gravel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:171][ 97]LogMaterial: Display: Missing cached shadermap for M_Ground_Gravel in PCD3D_SM5, Default, SM5 (DDC key hash: 173AB913CE163E03A628ADF1C431FC70639184B0), compiling. 
+[2022.10.04-23.59.10:172][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Ground_Gravel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:233][ 97]LogMaterial: Display: Missing cached shadermap for M_Ground_Moss in PCD3D_SM5, Default, SM5 (DDC key hash: 921D4B38FC1DFFBEC20C19583AC6A6D23696DC7C), compiling. 
+[2022.10.04-23.59.10:233][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Ground_Moss.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:238][ 97]LogMaterial: Display: Missing cached shadermap for M_Ground_Moss in PCD3D_SM5, Default, SM5 (DDC key hash: 921D4B38FC1DFFBEC20C19583AC6A6D23696DC7C), compiling. 
+[2022.10.04-23.59.10:238][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Ground_Moss.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:265][ 97]LogMaterial: Display: Missing cached shadermap for M_Metal_Chrome in PCD3D_SM5, Default, SM5 (DDC key hash: C2D7A0BD86FEE20395D5EC00DBC0C2FCD1403F4B), compiling. 
+[2022.10.04-23.59.10:265][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Metal_Chrome.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:301][ 97]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: 37FD4A69C5083EA218C33640FF13C153BE791036), compiling. 
+[2022.10.04-23.59.10:301][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:306][ 97]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: 37FD4A69C5083EA218C33640FF13C153BE791036), compiling. 
+[2022.10.04-23.59.10:307][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:339][ 97]LogMaterial: Display: Missing cached shadermap for M_Metal_Rust in PCD3D_SM5, Default, SM5 (DDC key hash: 37DF1B9B40AEEFFAC0E63AFD73FB93A1C13BF4E7), compiling. 
+[2022.10.04-23.59.10:340][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Metal_Rust.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:345][ 97]LogMaterial: Display: Missing cached shadermap for M_Metal_Rust in PCD3D_SM5, Default, SM5 (DDC key hash: 37DF1B9B40AEEFFAC0E63AFD73FB93A1C13BF4E7), compiling. 
+[2022.10.04-23.59.10:345][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Metal_Rust.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:382][ 97]LogMaterial: Display: Missing cached shadermap for M_Metal_Steel in PCD3D_SM5, Default, SM5 (DDC key hash: 58A77F0365D84775668F7214CD04DE1CAB0C8409), compiling. 
+[2022.10.04-23.59.10:382][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Metal_Steel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:454][ 97]LogMaterial: Display: Missing cached shadermap for M_Rock_Basalt in PCD3D_SM5, Default, SM5 (DDC key hash: 42206981303DFD79BCB32C45310BE7C8D02A0223), compiling. 
+[2022.10.04-23.59.10:455][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Rock_Basalt.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:459][ 97]LogMaterial: Display: Missing cached shadermap for M_Rock_Basalt in PCD3D_SM5, Default, SM5 (DDC key hash: 42206981303DFD79BCB32C45310BE7C8D02A0223), compiling. 
+[2022.10.04-23.59.10:460][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Rock_Basalt.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:522][ 97]LogMaterial: Display: Missing cached shadermap for M_Rock_Marble_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: 21B469518B5D0F3CFD7B60366A67E6EC6DB97CF1), compiling. 
+[2022.10.04-23.59.10:523][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Rock_Marble_Polished.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:528][ 97]LogMaterial: Display: Missing cached shadermap for M_Rock_Marble_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: 21B469518B5D0F3CFD7B60366A67E6EC6DB97CF1), compiling. 
+[2022.10.04-23.59.10:528][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Rock_Marble_Polished.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:533][ 97]LogMaterial: Display: Missing cached shadermap for M_Rock_Marble_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: 21B469518B5D0F3CFD7B60366A67E6EC6DB97CF1), compiling. 
+[2022.10.04-23.59.10:533][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Rock_Marble_Polished.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:602][ 97]LogMaterial: Display: Missing cached shadermap for M_Rock_Sandstone in PCD3D_SM5, Default, SM5 (DDC key hash: 8F401CF6DC946DFB21256B67B2C3E0D9E9F6B7E9), compiling. 
+[2022.10.04-23.59.10:602][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Rock_Sandstone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:607][ 97]LogMaterial: Display: Missing cached shadermap for M_Rock_Sandstone in PCD3D_SM5, Default, SM5 (DDC key hash: 8F401CF6DC946DFB21256B67B2C3E0D9E9F6B7E9), compiling. 
+[2022.10.04-23.59.10:608][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Rock_Sandstone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:675][ 97]LogMaterial: Display: Missing cached shadermap for M_Rock_Slate in PCD3D_SM5, Default, SM5 (DDC key hash: 0938BDE4B1E7D39D283DCB026ABCE88B2D42CCFC), compiling. 
+[2022.10.04-23.59.10:676][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Rock_Slate.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:680][ 97]LogMaterial: Display: Missing cached shadermap for M_Rock_Slate in PCD3D_SM5, Default, SM5 (DDC key hash: 0938BDE4B1E7D39D283DCB026ABCE88B2D42CCFC), compiling. 
+[2022.10.04-23.59.10:681][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Rock_Slate.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:721][ 97]LogMaterial: Display: Missing cached shadermap for M_Tech_Checker_Dot in PCD3D_SM5, Default, SM5 (DDC key hash: 667C61C989EA10AD3B76C4896D5A305ADDB4EB0B), compiling. 
+[2022.10.04-23.59.10:721][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Tech_Checker_Dot.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:750][ 97]LogMaterial: Display: Missing cached shadermap for M_Tech_Hex_Tile in PCD3D_SM5, Default, SM5 (DDC key hash: 327426252E405B3E2189D2E50D193FD9D1E9D4EF), compiling. 
+[2022.10.04-23.59.10:751][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Tech_Hex_Tile.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:786][ 97]LogMaterial: Display: Missing cached shadermap for M_Tech_Hex_Tile_Pulse in PCD3D_SM5, Default, SM5 (DDC key hash: 3886061ABB18ADCF128C594943D0A4F1A2BDDFDC), compiling. 
+[2022.10.04-23.59.10:786][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Tech_Hex_Tile_Pulse.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:791][ 97]LogMaterial: Display: Missing cached shadermap for M_Tech_Hex_Tile_Pulse in PCD3D_SM5, Default, SM5 (DDC key hash: 3886061ABB18ADCF128C594943D0A4F1A2BDDFDC), compiling. 
+[2022.10.04-23.59.10:791][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Tech_Hex_Tile_Pulse.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:795][ 97]LogMaterial: Display: Missing cached shadermap for M_Tech_Hex_Tile_Pulse in PCD3D_SM5, Default, SM5 (DDC key hash: 3886061ABB18ADCF128C594943D0A4F1A2BDDFDC), compiling. 
+[2022.10.04-23.59.10:796][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Tech_Hex_Tile_Pulse.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:841][ 97]LogMaterial: Display: Missing cached shadermap for M_Tech_Panel in PCD3D_SM5, Default, SM5 (DDC key hash: 53C013D84FFE6E32F7AECE772C7DEB237E154B1C), compiling. 
+[2022.10.04-23.59.10:841][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Tech_Panel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:846][ 97]LogMaterial: Display: Missing cached shadermap for M_Tech_Panel in PCD3D_SM5, Default, SM5 (DDC key hash: 53C013D84FFE6E32F7AECE772C7DEB237E154B1C), compiling. 
+[2022.10.04-23.59.10:847][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Tech_Panel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:910][ 97]LogMaterial: Display: Missing cached shadermap for M_Water_Lake in PCD3D_SM5, Default, SM5 (DDC key hash: 38ADC52C0E3ADEA3F08AA4FEFF39EDCBC7DA960E), compiling. 
+[2022.10.04-23.59.10:910][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Water_Lake.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:915][ 97]LogMaterial: Display: Missing cached shadermap for M_Water_Lake in PCD3D_SM5, Default, SM5 (DDC key hash: 38ADC52C0E3ADEA3F08AA4FEFF39EDCBC7DA960E), compiling. 
+[2022.10.04-23.59.10:915][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Water_Lake.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:978][ 97]LogMaterial: Display: Missing cached shadermap for M_Water_Ocean in PCD3D_SM5, Default, SM5 (DDC key hash: ED70E9B914595CACD310BF256D9AB95A7200E5CC), compiling. 
+[2022.10.04-23.59.10:978][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Water_Ocean.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.10:983][ 97]LogMaterial: Display: Missing cached shadermap for M_Water_Ocean in PCD3D_SM5, Default, SM5 (DDC key hash: ED70E9B914595CACD310BF256D9AB95A7200E5CC), compiling. 
+[2022.10.04-23.59.10:984][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Water_Ocean.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.11:020][ 97]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: D1B3BA9D9CD7D12ED5381E813828F82E1571051D), compiling. 
+[2022.10.04-23.59.11:021][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Polished.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+	(Node TextureSample) Alpha is AO> Missing input texture
+
+[2022.10.04-23.59.11:055][ 97]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Worn in PCD3D_SM5, Default, SM5 (DDC key hash: 4D698FC573FA800E32E82220389FDE61FA541F8B), compiling. 
+[2022.10.04-23.59.11:055][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+	(Node TextureSample) Alpha is AO> Missing input texture
+
+[2022.10.04-23.59.11:060][ 97]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Worn in PCD3D_SM5, Default, SM5 (DDC key hash: 4D698FC573FA800E32E82220389FDE61FA541F8B), compiling. 
+[2022.10.04-23.59.11:060][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+	(Node TextureSample) Alpha is AO> Missing input texture
+
+[2022.10.04-23.59.11:065][ 97]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Worn in PCD3D_SM5, Default, SM5 (DDC key hash: 4D698FC573FA800E32E82220389FDE61FA541F8B), compiling. 
+[2022.10.04-23.59.11:065][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+	(Node TextureSample) Alpha is AO> Missing input texture
+
+[2022.10.04-23.59.11:070][ 97]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Worn in PCD3D_SM5, Default, SM5 (DDC key hash: 4D698FC573FA800E32E82220389FDE61FA541F8B), compiling. 
+[2022.10.04-23.59.11:070][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+	(Node TextureSample) Alpha is AO> Missing input texture
+
+[2022.10.04-23.59.11:105][ 97]LogMaterial: Display: Missing cached shadermap for M_Wood_Oak in PCD3D_SM5, Default, SM5 (DDC key hash: DF6B83F0E91DF51DA1069381921EFF4D97CD91E4), compiling. 
+[2022.10.04-23.59.11:106][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Wood_Oak.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.11:161][ 97]LogMaterial: Display: Missing cached shadermap for M_Wood_Pine in PCD3D_SM5, Default, SM5 (DDC key hash: 32F57E135265B32BF6D8F2BE9C7AE83E110C763A), compiling. 
+[2022.10.04-23.59.11:161][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.11:166][ 97]LogMaterial: Display: Missing cached shadermap for M_Wood_Pine in PCD3D_SM5, Default, SM5 (DDC key hash: 32F57E135265B32BF6D8F2BE9C7AE83E110C763A), compiling. 
+[2022.10.04-23.59.11:166][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.11:203][ 97]LogMaterial: Display: Missing cached shadermap for M_Wood_Walnut in PCD3D_SM5, Default, SM5 (DDC key hash: E00D2FDD55E1EF4F03C8717765D28F4BB456705B), compiling. 
+[2022.10.04-23.59.11:203][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Materials\M_Wood_Walnut.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.11:213][ 97]LogMaterial: Display: Missing cached shadermap for M_Dust_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 7A4AD517AA1FC24592CF7D06C0A58DF21586A838), compiling. 
+[2022.10.04-23.59.11:213][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Particles\Materials\M_Dust_Particle.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2022.10.04-23.59.11:260][ 97]LogParticles: Warning: MaxCount =  502 for Emitter ParticleSpriteEmitter_0 (/Game/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust)
+[2022.10.04-23.59.11:261][ 97]LogParticles: Warning: MaxCount =  502 for Emitter ParticleSpriteEmitter_1 (/Game/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust)
+[2022.10.04-23.59.11:262][ 97]LogParticles: Warning: MaxCount =  502 for Emitter ParticleSpriteEmitter_2 (/Game/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust)
+[2022.10.04-23.59.11:263][ 97]LogParticles: Warning: MaxCount =  502 for Emitter ParticleSpriteEmitter_3 (/Game/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust)
+[2022.10.04-23.59.11:285][ 97]LogMaterial: Display: Missing cached shadermap for M_Frame in PCD3D_SM5, Default, SM5 (DDC key hash: 03C3C647923AC13803A4995CF9E051186573B593), compiling. 
+[2022.10.04-23.59.11:286][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Props\Materials\M_Frame.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.11:376][ 97]LogStaticMesh: Display: Building static mesh SM_DoorFrame...
+[2022.10.04-23.59.11:376][ 97]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame
+[2022.10.04-23.59.11:545][ 97]LogStaticMesh: Display: Building static mesh SM_GlassWindow...
+[2022.10.04-23.59.11:545][ 97]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_GlassWindow.SM_GlassWindow
+[2022.10.04-23.59.11:707][ 97]LogStaticMesh: Display: Building static mesh SM_PillarFrame...
+[2022.10.04-23.59.11:707][ 97]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_PillarFrame.SM_PillarFrame
+[2022.10.04-23.59.11:728][ 97]LogStaticMesh: Display: Building static mesh SM_PillarFrame300...
+[2022.10.04-23.59.11:728][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Props/SM_PillarFrame300.SM_PillarFrame300
+[2022.10.04-23.59.11:728][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_PillarFrame300) ...
+[2022.10.04-23.59.11:828][ 97]LogStaticMesh: Display: Building static mesh SM_CornerFrame...
+[2022.10.04-23.59.11:828][ 97]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2022.10.04-23.59.11:875][ 97]LogStaticMesh: Display: Building static mesh Shape_QuadPyramid...
+[2022.10.04-23.59.11:876][ 97]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_QuadPyramid.Shape_QuadPyramid
+[2022.10.04-23.59.11:896][ 97]LogStaticMesh: Display: Building static mesh Shape_Sphere...
+[2022.10.04-23.59.11:896][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Sphere) ...
+[2022.10.04-23.59.11:931][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere
+[2022.10.04-23.59.11:990][ 97]LogStaticMesh: Display: Building static mesh Shape_Cube...
+[2022.10.04-23.59.11:990][ 97]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2022.10.04-23.59.12:097][ 97]LogStaticMesh: Display: Building static mesh SM_WindowFrame...
+[2022.10.04-23.59.12:097][ 97]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_WindowFrame.SM_WindowFrame
+[2022.10.04-23.59.12:297][ 97]LogStaticMesh: Display: Building static mesh SM_Stairs...
+[2022.10.04-23.59.12:297][ 97]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_Stairs.SM_Stairs
+[2022.10.04-23.59.12:345][ 97]LogMaterial: Display: Missing cached shadermap for M_Shelf in PCD3D_SM5, Default, SM5 (DDC key hash: C57672D5D1B4D6C34627D3CB8D84BBCEC5FCCD83), compiling. 
+[2022.10.04-23.59.12:346][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Props\Materials\M_Shelf.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.12:378][ 97]LogStaticMesh: Display: Building static mesh SM_Shelf...
+[2022.10.04-23.59.12:378][ 97]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_Shelf.SM_Shelf
+[2022.10.04-23.59.12:403][ 97]LogMaterial: Display: Missing cached shadermap for M_Rock in PCD3D_SM5, Default, SM5 (DDC key hash: 81624C49C3B45BB828539BBD4117C5A8C7929223), compiling. 
+[2022.10.04-23.59.12:404][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Props\Materials\M_Rock.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.12:409][ 97]LogMaterial: Display: Missing cached shadermap for M_Rock in PCD3D_SM5, Default, SM5 (DDC key hash: 81624C49C3B45BB828539BBD4117C5A8C7929223), compiling. 
+[2022.10.04-23.59.12:409][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Props\Materials\M_Rock.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.12:435][ 97]LogStaticMesh: Display: Building static mesh SM_Rock...
+[2022.10.04-23.59.12:435][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Props/SM_Rock.SM_Rock
+[2022.10.04-23.59.12:435][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Rock) ...
+[2022.10.04-23.59.12:668][ 97]LogStaticMesh: Display: Building static mesh SM_MatPreviewMesh_02...
+[2022.10.04-23.59.12:668][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_MatPreviewMesh_02) ...
+[2022.10.04-23.59.13:061][ 97]LogStaticMesh: Built static mesh [0.11s] /Game/StarterContent/Props/SM_MatPreviewMesh_02.SM_MatPreviewMesh_02
+[2022.10.04-23.59.13:707][ 97]LogMaterial: Display: Missing cached shadermap for M_Door in PCD3D_SM5, Default, SM5 (DDC key hash: D60C0E109184354E2F7CB13580154EB3BCAFA541), compiling. 
+[2022.10.04-23.59.13:708][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Props\Materials\M_Door.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.13:733][ 97]LogStaticMesh: Display: Building static mesh SM_Door...
+[2022.10.04-23.59.13:733][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Door) ...
+[2022.10.04-23.59.13:751][ 97]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Props/SM_Door.SM_Door
+[2022.10.04-23.59.13:792][ 97]LogStaticMesh: Display: Building static mesh SM_Couch...
+[2022.10.04-23.59.13:792][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Couch) ...
+[2022.10.04-23.59.13:810][ 97]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Props/SM_Couch.SM_Couch
+[2022.10.04-23.59.13:838][ 97]LogMaterial: Display: Missing cached shadermap for M_Bush in PCD3D_SM5, Default, SM5 (DDC key hash: EC978DC2CEDF2934D2D3A886EE1CDF3CED850A7A), compiling. 
+[2022.10.04-23.59.13:839][ 97]LogMaterial: Warning: [AssetLog] C:\Users\nharvey\Documents\GitHub\Cat-Burger\Cat_Burger\Content\StarterContent\Props\Materials\M_Bush.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.10.04-23.59.13:863][ 97]LogStaticMesh: Display: Building static mesh SM_Bush...
+[2022.10.04-23.59.13:863][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Bush) ...
+[2022.10.04-23.59.13:870][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Props/SM_Bush.SM_Bush
+[2022.10.04-23.59.13:900][ 97]LogStaticMesh: Display: Building static mesh Shape_WideCapsule...
+[2022.10.04-23.59.13:900][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_WideCapsule) ...
+[2022.10.04-23.59.13:909][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Shapes/Shape_WideCapsule.Shape_WideCapsule
+[2022.10.04-23.59.13:935][ 97]LogStaticMesh: Display: Building static mesh Shape_Wedge_B...
+[2022.10.04-23.59.13:935][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Wedge_B) ...
+[2022.10.04-23.59.13:939][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Shapes/Shape_Wedge_B.Shape_Wedge_B
+[2022.10.04-23.59.13:963][ 97]LogStaticMesh: Display: Building static mesh Shape_Wedge_A...
+[2022.10.04-23.59.13:963][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Wedge_A) ...
+[2022.10.04-23.59.13:969][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Shapes/Shape_Wedge_A.Shape_Wedge_A
+[2022.10.04-23.59.13:996][ 97]LogStaticMesh: Display: Building static mesh Shape_Tube...
+[2022.10.04-23.59.13:996][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Tube) ...
+[2022.10.04-23.59.14:007][ 97]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Shapes/Shape_Tube.Shape_Tube
+[2022.10.04-23.59.14:034][ 97]LogStaticMesh: Display: Building static mesh Shape_TriPyramid...
+[2022.10.04-23.59.14:034][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_TriPyramid) ...
+[2022.10.04-23.59.14:036][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Shapes/Shape_TriPyramid.Shape_TriPyramid
+[2022.10.04-23.59.14:062][ 97]LogStaticMesh: Display: Building static mesh Shape_Trim_90_Out...
+[2022.10.04-23.59.14:062][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Trim_90_Out) ...
+[2022.10.04-23.59.14:067][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Shapes/Shape_Trim_90_Out.Shape_Trim_90_Out
+[2022.10.04-23.59.14:096][ 97]LogStaticMesh: Display: Building static mesh Shape_Trim_90_In...
+[2022.10.04-23.59.14:096][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Trim_90_In) ...
+[2022.10.04-23.59.14:102][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Shapes/Shape_Trim_90_In.Shape_Trim_90_In
+[2022.10.04-23.59.14:128][ 97]LogStaticMesh: Display: Building static mesh Shape_Trim...
+[2022.10.04-23.59.14:128][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Trim) ...
+[2022.10.04-23.59.14:132][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Shapes/Shape_Trim.Shape_Trim
+[2022.10.04-23.59.14:160][ 97]LogStaticMesh: Display: Building static mesh Shape_Torus...
+[2022.10.04-23.59.14:160][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Torus) ...
+[2022.10.04-23.59.14:191][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Shapes/Shape_Torus.Shape_Torus
+[2022.10.04-23.59.14:224][ 97]LogStaticMesh: Display: Building static mesh Shape_Plane...
+[2022.10.04-23.59.14:224][ 97]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane
+[2022.10.04-23.59.14:249][ 97]LogStaticMesh: Display: Building static mesh Shape_Pipe_90...
+[2022.10.04-23.59.14:249][ 97]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Pipe_90.Shape_Pipe_90
+[2022.10.04-23.59.14:249][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Pipe_90) ...
+[2022.10.04-23.59.14:293][ 97]LogStaticMesh: Display: Building static mesh Shape_Pipe_180...
+[2022.10.04-23.59.14:293][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Shapes/Shape_Pipe_180.Shape_Pipe_180
+[2022.10.04-23.59.14:293][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Pipe_180) ...
+[2022.10.04-23.59.14:353][ 97]LogStaticMesh: Display: Building static mesh Shape_Pipe...
+[2022.10.04-23.59.14:353][ 97]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe
+[2022.10.04-23.59.14:392][ 97]LogStaticMesh: Display: Building static mesh Shape_NarrowCapsule...
+[2022.10.04-23.59.14:392][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Shapes/Shape_NarrowCapsule.Shape_NarrowCapsule
+[2022.10.04-23.59.14:442][ 97]LogStaticMesh: Display: Building static mesh Shape_Cylinder...
+[2022.10.04-23.59.14:442][ 97]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Cylinder.Shape_Cylinder
+[2022.10.04-23.59.14:467][ 97]LogStaticMesh: Display: Building static mesh Shape_Cone...
+[2022.10.04-23.59.14:467][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone
+[2022.10.04-23.59.14:508][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.04-23.59.15:049][ 97]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.04-23.59.15:049][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.04-23.59.15:135][ 97]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2022.10.04-23.59.15:171][ 97]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.10.04-23.59.15:171][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.04-23.59.15:240][ 97]LogWorld: UWorld::CleanupWorld for Advanced_Lighting, bSessionEnded=true, bCleanupResources=true
+[2022.10.04-23.59.15:240][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.04-23.59.28:347][ 97]LogShaderCompilers: Display: ================================================
+[2022.10.04-23.59.28:347][ 97]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.04-23.59.28:347][ 97]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.10.04-23.59.28:347][ 97]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.10.04-23.59.28:347][ 97]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.10.04-23.59.28:347][ 97]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.04-23.59.28:347][ 97]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.10.04-23.59.28:347][ 97]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.10.04-23.59.28:347][ 97]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.10.04-23.59.28:347][ 97]LogShaderCompilers: Display: ================================================
+[2022.10.04-23.59.29:706][ 97]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.10.04-23.59.29:706][ 97]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.04-23.59.29:706][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.04-23.59.29:719][ 97]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.10.04-23.59.29:719][ 97]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.10.04-23.59.29:719][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.04-23.59.29:723][ 97]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.10.04-23.59.29:723][ 97]LogWorld: UWorld::CleanupWorld for Advanced_Lighting, bSessionEnded=true, bCleanupResources=true
+[2022.10.04-23.59.29:723][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.04-23.59.30:770][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.10.04-23.59.30:779][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.10.04-23.59.30:785][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.10.04-23.59.41:357][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.10.04-23.59.42:161][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.10.04-23.59.43:209][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2022.10.04-23.59.43:217][512]LogSavePackage: Moving output files for package: /Game/Game/Maps/Main_Level
+[2022.10.04-23.59.43:221][512]LogSavePackage: Moving '../../../../../../Users/nharvey/Documents/GitHub/Cat-Burger/Cat_Burger/Saved/Main_LevelC93B7CEC47A10E9AADFBF9BFFEB6CCB7.tmp' to '../../../../../../Users/nharvey/Documents/GitHub/Cat-Burger/Cat_Burger/Content/Game/Maps/Main_Level.umap'
+[2022.10.04-23.59.43:235][512]LogFileHelpers: No new changes to save!
+[2022.10.04-23.59.43:245][512]AssetCheck: New page: Asset Save: Main_Level
+[2022.10.04-23.59.43:245][512]LogContentValidation: Display: Validating World /Game/Game/Maps/Main_Level.Main_Level
